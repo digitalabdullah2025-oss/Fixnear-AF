@@ -1,0 +1,10 @@
+{
+  "name": "FIXNEAR",
+  "description": "Find. Book. Fix. A local home services marketplace connecting Indian households with verified nearby repair professionals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
